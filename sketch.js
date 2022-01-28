@@ -1,5 +1,5 @@
 
-let selected = 255; //this is the variable that I'll use for the selected Color
+let selected = 255; 
 
 function setup() {
   createCanvas(1530, 750);
